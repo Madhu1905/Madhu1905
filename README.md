@@ -35,20 +35,33 @@ Madhu Balakrishnan Bashyam ~ Cybersecurity Engineer
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<!-- ===== PROJECTS ===== -->
+## `projects`
+
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| 🛰️ **[madhubashyam.net](https://github.com/Madhu1905/madhubashyam.net)** | Cybersecurity portfolio — SOC-style dashboard, ⌘K command palette, live terminal & MDX write-ups | `Next.js` `TypeScript` `Tailwind` |
+| 🔎 **[Python_Vulnerability_Scanner](https://github.com/Madhu1905/Python_Vulnerability_Scanner)** | Scans targets for common security vulnerabilities and reports findings | `Python` |
+| 🕵️ **[usb-insider-threat-security](https://github.com/Madhu1905/usb-insider-threat-security)** | Detects insider-threat activity from unauthorized USB devices | `Python` |
+| 📦 **[Automated-Container-deployment](https://github.com/Madhu1905/Automated-Container-deployment)** | Infrastructure-as-Code for automated container deployment | `Terraform` |
+| 💻 **[My-Portfolio-Website](https://github.com/Madhu1905/My-Portfolio-Website)** | Personal portfolio website | `JavaScript` |
+| 📄 **[My-Portfolio](https://github.com/Madhu1905/My-Portfolio)** | Earlier personal portfolio site | `HTML` |
 
 <!-- ===== STATS ===== -->
 ## `stats`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Madhu1905&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="github stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhu1905&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhu1905&theme=tokyo-night&bg_color=1a1b27&color=00ff9c&line=00ff9c&point=ffffff&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="activity graph" width="95%" />
 
-<img src="https://streak-stats.demolab.com?user=Madhu1905&theme=tokyonight&hide_border=true" alt="streak" />
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Madhu1905&theme=tokyonight&hide_border=true&background=1A1B27&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" alt="streak" />
 
 </div>
 
