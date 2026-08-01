@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 330" width="900" height="330" fill="none" role="img" aria-label="Skill matrix">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 348" width="900" height="348" fill="none" role="img" aria-label="Skill matrix">
   <defs>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#7b42bc"/>
@@ -11,51 +11,56 @@
     </style>
   </defs>
 
-  <rect x="1" y="1" width="898" height="328" rx="16" fill="#0d1117" stroke="url(#accent)" stroke-width="1.5"/>
+  <rect x="1" y="1" width="898" height="346" rx="16" fill="#0d1117" stroke="url(#accent)" stroke-width="1.5"/>
 
   <text x="28" y="46" font-size="20" font-weight="700" fill="#00ff9c">// skill_matrix</text>
-  <text x="872" y="46" text-anchor="end" font-size="12" fill="#7d8590">self-assessed · tuned by me</text>
+  <text x="872" y="46" text-anchor="end" font-size="12" fill="#7d8590">self-assessed · tune anytime</text>
   <line x1="28" y1="62" x2="872" y2="62" stroke="#21262d" stroke-width="1"/>
 
-  <!-- row template: dot, name, track, fill -->
-  <!-- 1 Vulnerability Research (offensive) .82 -->
-  <circle cx="34" cy="96" r="4" fill="#ff7b72"/>
-  <text x="48" y="100" font-size="14" fill="#c9d1d9">Vulnerability Research</text>
-  <rect x="360" y="89" width="500" height="9" rx="4.5" fill="#161b22"/>
-  <rect class="bar" style="animation-delay:.30s" x="360" y="89" width="410" height="9" rx="4.5" fill="url(#accent)"/>
+  <!-- 1 Security Monitoring & Threat Detection -->
+  <circle cx="34" cy="88" r="4" fill="#00ff9c"/>
+  <text x="48" y="92" font-size="14" fill="#c9d1d9">Security Monitoring &amp; Detection</text>
+  <rect x="360" y="81" width="500" height="9" rx="4.5" fill="#161b22"/>
+  <rect class="bar" style="animation-delay:.30s" x="360" y="81" width="425" height="9" rx="4.5" fill="url(#accent)"/>
 
-  <!-- 2 Web / App Pentesting (offensive) .74 -->
-  <circle cx="34" cy="132" r="4" fill="#ff7b72"/>
-  <text x="48" y="136" font-size="14" fill="#c9d1d9">Web / App Pentesting</text>
-  <rect x="360" y="125" width="500" height="9" rx="4.5" fill="#161b22"/>
-  <rect class="bar" style="animation-delay:.45s" x="360" y="125" width="370" height="9" rx="4.5" fill="url(#accent)"/>
+  <!-- 2 Incident Response -->
+  <circle cx="34" cy="122" r="4" fill="#00ff9c"/>
+  <text x="48" y="126" font-size="14" fill="#c9d1d9">Incident Response</text>
+  <rect x="360" y="115" width="500" height="9" rx="4.5" fill="#161b22"/>
+  <rect class="bar" style="animation-delay:.42s" x="360" y="115" width="400" height="9" rx="4.5" fill="url(#accent)"/>
 
-  <!-- 3 Threat Detection (defensive) .80 -->
-  <circle cx="34" cy="168" r="4" fill="#00ff9c"/>
-  <text x="48" y="172" font-size="14" fill="#c9d1d9">Threat Detection</text>
-  <rect x="360" y="161" width="500" height="9" rx="4.5" fill="#161b22"/>
-  <rect class="bar" style="animation-delay:.60s" x="360" y="161" width="400" height="9" rx="4.5" fill="url(#accent)"/>
+  <!-- 3 Threat Hunting -->
+  <circle cx="34" cy="156" r="4" fill="#00ff9c"/>
+  <text x="48" y="160" font-size="14" fill="#c9d1d9">Threat Hunting</text>
+  <rect x="360" y="149" width="500" height="9" rx="4.5" fill="#161b22"/>
+  <rect class="bar" style="animation-delay:.54s" x="360" y="149" width="390" height="9" rx="4.5" fill="url(#accent)"/>
 
-  <!-- 4 Incident Response (defensive) .70 -->
-  <circle cx="34" cy="204" r="4" fill="#00ff9c"/>
-  <text x="48" y="208" font-size="14" fill="#c9d1d9">Incident Response</text>
-  <rect x="360" y="197" width="500" height="9" rx="4.5" fill="#161b22"/>
-  <rect class="bar" style="animation-delay:.75s" x="360" y="197" width="350" height="9" rx="4.5" fill="url(#accent)"/>
+  <!-- 4 SIEM Operations -->
+  <circle cx="34" cy="190" r="4" fill="#00ff9c"/>
+  <text x="48" y="194" font-size="14" fill="#c9d1d9">SIEM Operations</text>
+  <rect x="360" y="183" width="500" height="9" rx="4.5" fill="#161b22"/>
+  <rect class="bar" style="animation-delay:.66s" x="360" y="183" width="410" height="9" rx="4.5" fill="url(#accent)"/>
 
-  <!-- 5 Python Automation (dev) .88 -->
-  <circle cx="34" cy="240" r="4" fill="#6ea8ff"/>
-  <text x="48" y="244" font-size="14" fill="#c9d1d9">Python Automation</text>
-  <rect x="360" y="233" width="500" height="9" rx="4.5" fill="#161b22"/>
-  <rect class="bar" style="animation-delay:.90s" x="360" y="233" width="440" height="9" rx="4.5" fill="url(#accent)"/>
+  <!-- 5 Malware & Phishing Analysis -->
+  <circle cx="34" cy="224" r="4" fill="#b392f0"/>
+  <text x="48" y="228" font-size="14" fill="#c9d1d9">Malware &amp; Phishing Analysis</text>
+  <rect x="360" y="217" width="500" height="9" rx="4.5" fill="#161b22"/>
+  <rect class="bar" style="animation-delay:.78s" x="360" y="217" width="375" height="9" rx="4.5" fill="url(#accent)"/>
 
-  <!-- 6 Web (Next.js / TS) (dev) .78 -->
-  <circle cx="34" cy="276" r="4" fill="#6ea8ff"/>
-  <text x="48" y="280" font-size="14" fill="#c9d1d9">Web (Next.js / TypeScript)</text>
-  <rect x="360" y="269" width="500" height="9" rx="4.5" fill="#161b22"/>
-  <rect class="bar" style="animation-delay:1.05s" x="360" y="269" width="390" height="9" rx="4.5" fill="url(#accent)"/>
+  <!-- 6 Vulnerability Management -->
+  <circle cx="34" cy="258" r="4" fill="#b392f0"/>
+  <text x="48" y="262" font-size="14" fill="#c9d1d9">Vulnerability Management</text>
+  <rect x="360" y="251" width="500" height="9" rx="4.5" fill="#161b22"/>
+  <rect class="bar" style="animation-delay:.90s" x="360" y="251" width="400" height="9" rx="4.5" fill="url(#accent)"/>
+
+  <!-- 7 Python / Security Automation -->
+  <circle cx="34" cy="292" r="4" fill="#6ea8ff"/>
+  <text x="48" y="296" font-size="14" fill="#c9d1d9">Python / Security Automation</text>
+  <rect x="360" y="285" width="500" height="9" rx="4.5" fill="#161b22"/>
+  <rect class="bar" style="animation-delay:1.02s" x="360" y="285" width="400" height="9" rx="4.5" fill="url(#accent)"/>
 
   <!-- legend -->
-  <circle cx="34" cy="309" r="4" fill="#ff7b72"/><text x="46" y="313" font-size="12" fill="#7d8590">Offensive</text>
-  <circle cx="150" cy="309" r="4" fill="#00ff9c"/><text x="162" y="313" font-size="12" fill="#7d8590">Defensive / SOC</text>
-  <circle cx="315" cy="309" r="4" fill="#6ea8ff"/><text x="327" y="313" font-size="12" fill="#7d8590">Development</text>
+  <circle cx="34" cy="326" r="4" fill="#00ff9c"/><text x="46" y="330" font-size="12" fill="#7d8590">SOC / Defensive</text>
+  <circle cx="180" cy="326" r="4" fill="#b392f0"/><text x="192" y="330" font-size="12" fill="#7d8590">Analysis</text>
+  <circle cx="290" cy="326" r="4" fill="#6ea8ff"/><text x="302" y="330" font-size="12" fill="#7d8590">Development</text>
 </svg>

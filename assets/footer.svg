@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 130" width="900" height="130" fill="none" role="img" aria-label="footer">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7b42bc"/>
+      <stop offset="0.5" stop-color="#00ff9c"/>
+      <stop offset="1" stop-color="#7b42bc"/>
+    </linearGradient>
+    <style>
+      text{font-family:'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,monospace;}
+      .blink{animation:blink 1.06s steps(1) infinite;}
+      @keyframes blink{50%{opacity:0;}}
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="900" height="2.5" rx="1.25" fill="url(#accent)"/>
+
+  <text x="450" y="62" text-anchor="middle" font-size="17">
+    <tspan fill="#7b42bc">visitor@madhu</tspan><tspan fill="#7d8590">:~$</tspan><tspan fill="#00ff9c"> thanks for stopping by</tspan><tspan class="blink" fill="#00ff9c">_</tspan>
+  </text>
+  <text x="450" y="92" text-anchor="middle" font-size="12" fill="#7d8590">// stay curious · stay secure</text>
+</svg>

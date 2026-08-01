@@ -1,15 +1,15 @@
 <!-- ===== CUSTOM ANIMATED HERO ===== -->
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Madhu Bashyam — Cybersecurity Engineer" />
+<img src="./assets/hero.svg" width="100%" alt="Madhu Bashyam — SOC Analyst" />
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Madhu1905&color=00ff9c&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
 &nbsp;
-<img src="https://img.shields.io/badge/Focus-Cybersecurity-7b42bc?style=for-the-badge" alt="focus" />
+<img src="https://img.shields.io/badge/Open%20to-SOC%20Analyst%20roles-00ff9c?style=for-the-badge&labelColor=0d1117" alt="open to work" />
 &nbsp;
-<img src="https://img.shields.io/badge/Open%20to-Work-00ff9c?style=for-the-badge&labelColor=0d1117" alt="open to work" />
+<img src="https://img.shields.io/badge/📍-Dublin,%20Ireland-7b42bc?style=for-the-badge" alt="location" />
 
 <!-- ===== NAV ===== -->
 <br/><br/>
@@ -29,14 +29,14 @@
 ## 🧬 `whoami`
 
 ```bash
-Madhu Balakrishnan Bashyam ~ Cybersecurity Engineer
-> Focus:   Vulnerability research · Threat detection · SOC automation
-> Building: security tooling in Python + a SOC-style portfolio in Next.js
-> Mindset: offensive knowledge, defensive purpose
+Madhu Balakrishnan Bashyam ~ Cybersecurity Professional / SOC Analyst
+> Experience: 2+ yrs — security monitoring · incident response · threat hunting
+> Analysis:   malware & phishing · vulnerability management · SIEM operations
+> Location:   Dublin, Ireland  ·  open to SOC Analyst roles
 ```
 
-> 🛡️ &nbsp; I build tools that **find weaknesses before attackers do**
-> 🔬 &nbsp; Currently sharpening **threat detection & security automation**
+> 🛡️ &nbsp; I turn noisy alerts into **detections that catch real threats**
+> 🔬 &nbsp; Sharpening **detection engineering & security automation**
 > 🌐 &nbsp; Portfolio + write-ups → **[madhubashyam.net](https://madhubashyam.net)**
 
 <details>
@@ -44,10 +44,11 @@ Madhu Balakrishnan Bashyam ~ Cybersecurity Engineer
 
 <br/>
 
-- 🔭 &nbsp; Building Python security tooling and a SOC-style portfolio site
-- 🌱 &nbsp; Going deep on **threat detection**, **incident response** & **security automation**
-- 🎯 &nbsp; Open to **Cybersecurity / SOC Analyst / Security Engineering** roles
-- 🧩 &nbsp; I treat every system like a puzzle waiting to be broken — ethically
+- 🔭 &nbsp; 2+ years across SOC operations — monitoring, detection & incident response
+- 🌱 &nbsp; Going deeper on **detection engineering**, **threat hunting** & **security automation**
+- 🎯 &nbsp; Open to **SOC Analyst / Security Analyst / Detection Engineering** roles
+- 📍 &nbsp; Based in **Dublin, Ireland**
+- 🧩 &nbsp; I treat every alert as a lead and every system as a puzzle — ethically
 
 </details>
 
@@ -69,11 +70,12 @@ Madhu Balakrishnan Bashyam ~ Cybersecurity Engineer
 
 <br/><br/>
 
-**Security**
+**Security &amp; SOC**
 
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
 </div>
@@ -96,9 +98,20 @@ Madhu Balakrishnan Bashyam ~ Cybersecurity Engineer
 <a id="projects"></a>
 ## 🚀 `projects`
 
+### ⭐ Featured — madhubashyam.net
+
+<a href="https://madhubashyam.net"><img src="./assets/portfolio.png" width="100%" alt="madhubashyam.net — cybersecurity portfolio preview" /></a>
+
+My cybersecurity portfolio & write-ups — a **SOC-style dashboard** with a ⌘K command palette, a live terminal, MDX security write-ups, and a dedicated recruiter view. Built with Next.js 16, TypeScript & Tailwind v4.
+
+[![Live Site](https://img.shields.io/badge/▶_Live_Site-00ff9c?style=for-the-badge&labelColor=0d1117)](https://madhubashyam.net)
+&nbsp;
+[![Source](https://img.shields.io/badge/</>_Source-7b42bc?style=for-the-badge&labelColor=0d1117)](https://github.com/Madhu1905/madhubashyam.net)
+
+### 🔧 More projects
+
 | Project | What it does | Stack |
 |---------|--------------|-------|
-| 🛰️ **[madhubashyam.net](https://github.com/Madhu1905/madhubashyam.net)** | Cybersecurity portfolio — SOC-style dashboard, ⌘K command palette, live terminal & MDX write-ups | ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=nextdotjs&logoColor=white&style=flat-square) ![TS](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square) |
 | 🔎 **[Python_Vulnerability_Scanner](https://github.com/Madhu1905/Python_Vulnerability_Scanner)** | Scans targets for common security vulnerabilities and reports findings | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) |
 | 🕵️ **[usb-insider-threat-security](https://github.com/Madhu1905/usb-insider-threat-security)** | Detects insider-threat activity from unauthorized USB devices | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) |
 
@@ -115,6 +128,6 @@ Madhu Balakrishnan Bashyam ~ Cybersecurity Engineer
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:7b42bc,100:0d1117&height=110&section=footer" width="100%" alt="" />
+<img src="./assets/footer.svg" width="100%" alt="thanks for stopping by" />
 
 </div>
