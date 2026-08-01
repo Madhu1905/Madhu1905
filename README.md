@@ -1,9 +1,7 @@
-<!-- ===== HEADER: waving gradient banner ===== -->
+<!-- ===== CUSTOM ANIMATED HERO ===== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7b42bc,100:00ff9c&height=200&section=header&text=Madhu%20Bashyam&fontColor=ffffff&fontSize=44&desc=Cybersecurity%20Engineer%20%7C%20Threat%20Detection%20%7C%20SOC%20Tooling&descSize=18&descAlignY=62&animation=fadeIn" width="100%" alt="header banner" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Vulnerability+Research+%26+Threat+Detection;SOC+Tooling+%26+Security+Automation;I+break+things+to+secure+them." alt="typing header" />
+<img src="./assets/hero.svg" width="100%" alt="Madhu Bashyam — Cybersecurity Engineer" />
 
 <br/>
 
@@ -15,7 +13,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7b42bc,100:00ff9c&height=3&section=header" width="100%" alt="divider" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <!-- ===== ABOUT ===== -->
 ## 🧬 `whoami`
@@ -30,16 +28,27 @@ Madhu Balakrishnan Bashyam ~ Cybersecurity Engineer
 > 🛡️ &nbsp; I build tools that **find weaknesses before attackers do**
 > 🔬 &nbsp; Currently sharpening **threat detection & security automation**
 > 🌐 &nbsp; Portfolio + write-ups → **[madhubashyam.net](https://madhubashyam.net)**
-> 💬 &nbsp; Ask me about Python security tooling, vuln scanning, or SOC workflows
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7b42bc,100:00ff9c&height=3&section=header" width="100%" alt="divider" />
+<details>
+<summary><b>⚡ more about me</b></summary>
+
+<br/>
+
+- 🔭 &nbsp; Building Python security tooling and a SOC-style portfolio site
+- 🌱 &nbsp; Going deep on **threat detection**, **incident response** & **security automation**
+- 🎯 &nbsp; Open to **Cybersecurity / SOC Analyst / Security Engineering** roles
+- 🧩 &nbsp; I treat every system like a puzzle waiting to be broken — ethically
+
+</details>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <!-- ===== TECH STACK ===== -->
 ## 🧰 `stack`
 
 <div align="center">
 
-**Languages & Tools**
+**Languages &amp; Tools**
 
 <img src="https://skillicons.dev/icons?i=python,bash,typescript,react,nextjs,tailwind,docker,git,linux&theme=dark" alt="tech icons" />
 
@@ -54,7 +63,7 @@ Madhu Balakrishnan Bashyam ~ Cybersecurity Engineer
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7b42bc,100:00ff9c&height=3&section=header" width="100%" alt="divider" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <!-- ===== PROJECTS ===== -->
 ## 🚀 `projects`
@@ -65,7 +74,7 @@ Madhu Balakrishnan Bashyam ~ Cybersecurity Engineer
 | 🔎 **[Python_Vulnerability_Scanner](https://github.com/Madhu1905/Python_Vulnerability_Scanner)** | Scans targets for common security vulnerabilities and reports findings | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) |
 | 🕵️ **[usb-insider-threat-security](https://github.com/Madhu1905/usb-insider-threat-security)** | Detects insider-threat activity from unauthorized USB devices | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7b42bc,100:00ff9c&height=3&section=header" width="100%" alt="divider" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <!-- ===== CONNECT ===== -->
 ## 🔗 `connect`
@@ -75,6 +84,8 @@ Madhu Balakrishnan Bashyam ~ Cybersecurity Engineer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhubalakrishnanbashyam)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00FF9C?style=for-the-badge&logo=vercel&logoColor=black)](https://madhubashyam.net)
 
-</div>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:7b42bc,100:0d1117&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:7b42bc,100:0d1117&height=110&section=footer" width="100%" alt="" />
+
+</div>
