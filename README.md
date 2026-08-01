@@ -48,22 +48,6 @@ Madhu Balakrishnan Bashyam ~ Cybersecurity Engineer
 | 🛰️ **[madhubashyam.net](https://github.com/Madhu1905/madhubashyam.net)** | Cybersecurity portfolio — SOC-style dashboard, ⌘K command palette, live terminal & MDX write-ups | `Next.js` `TypeScript` `Tailwind` |
 | 🔎 **[Python_Vulnerability_Scanner](https://github.com/Madhu1905/Python_Vulnerability_Scanner)** | Scans targets for common security vulnerabilities and reports findings | `Python` |
 | 🕵️ **[usb-insider-threat-security](https://github.com/Madhu1905/usb-insider-threat-security)** | Detects insider-threat activity from unauthorized USB devices | `Python` |
-| 📦 **[Automated-Container-deployment](https://github.com/Madhu1905/Automated-Container-deployment)** | Infrastructure-as-Code for automated container deployment | `Terraform` |
-| 💻 **[My-Portfolio-Website](https://github.com/Madhu1905/My-Portfolio-Website)** | Personal portfolio website | `JavaScript` |
-| 📄 **[My-Portfolio](https://github.com/Madhu1905/My-Portfolio)** | Earlier personal portfolio site | `HTML` |
-
-<!-- ===== STATS ===== -->
-## `stats`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhu1905&theme=tokyo-night&bg_color=1a1b27&color=00ff9c&line=00ff9c&point=ffffff&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="activity graph" width="95%" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Madhu1905&theme=tokyonight&hide_border=true&background=1A1B27&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" alt="streak" />
-
-</div>
 
 <!-- ===== CONNECT ===== -->
 ## `connect`
