@@ -11,11 +11,21 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Open%20to-Work-00ff9c?style=for-the-badge&labelColor=0d1117" alt="open to work" />
 
+<!-- ===== NAV ===== -->
+<br/><br/>
+
+<a href="#whoami"><img src="https://img.shields.io/badge/whoami-00ff9c?style=for-the-badge&labelColor=0d1117" alt="whoami" /></a>
+<a href="#arsenal"><img src="https://img.shields.io/badge/arsenal-7b42bc?style=for-the-badge&labelColor=0d1117" alt="arsenal" /></a>
+<a href="#tip"><img src="https://img.shields.io/badge/daily_tip-00ff9c?style=for-the-badge&labelColor=0d1117" alt="daily tip" /></a>
+<a href="#projects"><img src="https://img.shields.io/badge/projects-7b42bc?style=for-the-badge&labelColor=0d1117" alt="projects" /></a>
+<a href="#connect"><img src="https://img.shields.io/badge/connect-00ff9c?style=for-the-badge&labelColor=0d1117" alt="connect" /></a>
+
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 <!-- ===== ABOUT ===== -->
+<a id="whoami"></a>
 ## 🧬 `whoami`
 
 ```bash
@@ -43,10 +53,15 @@ Madhu Balakrishnan Bashyam ~ Cybersecurity Engineer
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-<!-- ===== TECH STACK ===== -->
-## 🧰 `stack`
+<!-- ===== ARSENAL ===== -->
+<a id="arsenal"></a>
+## 🧠 `arsenal`
 
 <div align="center">
+
+<img src="./assets/skills.svg" width="100%" alt="skill matrix" />
+
+<br/><br/>
 
 **Languages &amp; Tools**
 
@@ -65,7 +80,20 @@ Madhu Balakrishnan Bashyam ~ Cybersecurity Engineer
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
+<!-- ===== DYNAMIC: SECURITY TIP OF THE DAY ===== -->
+<a id="tip"></a>
+## 💡 `security_tip_of_the_day`
+
+<!-- TIP:START -->
+> 🔐 **Store passwords with a slow salted KDF (argon2/bcrypt), never plain text or MD5.**
+>
+> <sub>Auto-rotated daily by a GitHub Action · tip #14 of 20</sub>
+<!-- TIP:END -->
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
 <!-- ===== PROJECTS ===== -->
+<a id="projects"></a>
 ## 🚀 `projects`
 
 | Project | What it does | Stack |
@@ -77,6 +105,7 @@ Madhu Balakrishnan Bashyam ~ Cybersecurity Engineer
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 <!-- ===== CONNECT ===== -->
+<a id="connect"></a>
 ## 🔗 `connect`
 
 <div align="center">
