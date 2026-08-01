@@ -85,9 +85,7 @@ Madhu Balakrishnan Bashyam ~ Cybersecurity Engineer
 ## 💡 `security_tip_of_the_day`
 
 <!-- TIP:START -->
-> 🔐 **Store passwords with a slow salted KDF (argon2/bcrypt), never plain text or MD5.**
->
-> <sub>Auto-rotated daily by a GitHub Action · tip #14 of 20</sub>
+> _Loading today's tip…_
 <!-- TIP:END -->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
