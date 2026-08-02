@@ -13,7 +13,7 @@
 
   <rect x="1" y="1" width="898" height="346" rx="16" fill="#0d1117" stroke="url(#accent)" stroke-width="1.5"/>
 
-  <text x="28" y="46" font-size="20" font-weight="700" fill="#00ff9c">// skill_matrix</text>
+  <text x="28" y="46" font-size="20" font-weight="700" fill="#00ff9c">// skills</text>
   <text x="872" y="46" text-anchor="end" font-size="12" fill="#7d8590">self-assessed · tune anytime</text>
   <line x1="28" y1="62" x2="872" y2="62" stroke="#21262d" stroke-width="1"/>
 

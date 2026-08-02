@@ -15,7 +15,7 @@
 <br/><br/>
 
 <a href="#whoami"><img src="https://img.shields.io/badge/whoami-00ff9c?style=for-the-badge&labelColor=0d1117" alt="whoami" /></a>
-<a href="#arsenal"><img src="https://img.shields.io/badge/arsenal-7b42bc?style=for-the-badge&labelColor=0d1117" alt="arsenal" /></a>
+<a href="#skills"><img src="https://img.shields.io/badge/skills-7b42bc?style=for-the-badge&labelColor=0d1117" alt="skills" /></a>
 <a href="#tip"><img src="https://img.shields.io/badge/daily_tip-00ff9c?style=for-the-badge&labelColor=0d1117" alt="daily tip" /></a>
 <a href="#projects"><img src="https://img.shields.io/badge/projects-7b42bc?style=for-the-badge&labelColor=0d1117" alt="projects" /></a>
 <a href="#connect"><img src="https://img.shields.io/badge/connect-00ff9c?style=for-the-badge&labelColor=0d1117" alt="connect" /></a>
@@ -55,8 +55,8 @@ Madhu Balakrishnan Bashyam ~ Cybersecurity Professional / SOC Analyst
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 <!-- ===== ARSENAL ===== -->
-<a id="arsenal"></a>
-## 🧠 `arsenal`
+<a id="skills"></a>
+## 🧠 `skills`
 
 <div align="center">
 
