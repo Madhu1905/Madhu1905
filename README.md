@@ -87,9 +87,9 @@ Madhu Balakrishnan Bashyam ~ Cybersecurity Professional / SOC Analyst
 ## 💡 `security_tip_of_the_day`
 
 <!-- TIP:START -->
-> 🔐 **Audit third-party dependencies — supply-chain attacks target the weakest link.**
+> 🔐 **Complete mediation: check authorization on every request, every time.**
 >
-> <sub>Auto-rotated daily by a GitHub Action · tip #18 of 20</sub>
+> <sub>Auto-rotated daily by a GitHub Action · tip #19 of 20</sub>
 <!-- TIP:END -->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
