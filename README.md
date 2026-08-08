@@ -87,9 +87,9 @@ Madhu Balakrishnan Bashyam ~ Cybersecurity Professional / SOC Analyst
 ## 💡 `security_tip_of_the_day`
 
 <!-- TIP:START -->
-> 🔐 **Threat-model early — ask 'what can go wrong?' before writing the code.**
+> 🔐 **Enable MFA everywhere — it blocks the large majority of automated account-takeover attempts.**
 >
-> <sub>Auto-rotated daily by a GitHub Action · tip #20 of 20</sub>
+> <sub>Auto-rotated daily by a GitHub Action · tip #1 of 20</sub>
 <!-- TIP:END -->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
