@@ -87,9 +87,9 @@ Madhu Balakrishnan Bashyam ~ Cybersecurity Professional / SOC Analyst
 ## 💡 `security_tip_of_the_day`
 
 <!-- TIP:START -->
-> 🔐 **Never trust user input — validate on the way in, encode on the way out.**
+> 🔐 **Keep secrets out of source code; rotate them and use a real secrets manager.**
 >
-> <sub>Auto-rotated daily by a GitHub Action · tip #6 of 20</sub>
+> <sub>Auto-rotated daily by a GitHub Action · tip #7 of 20</sub>
 <!-- TIP:END -->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
