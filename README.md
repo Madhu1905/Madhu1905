@@ -87,9 +87,9 @@ Madhu Balakrishnan Bashyam ~ Cybersecurity Professional / SOC Analyst
 ## 💡 `security_tip_of_the_day`
 
 <!-- TIP:START -->
-> 🔐 **Segment the network so one compromised host can't reach everything else.**
+> 🔐 **Back up offline — ransomware can't encrypt what it can't reach.**
 >
-> <sub>Auto-rotated daily by a GitHub Action · tip #8 of 20</sub>
+> <sub>Auto-rotated daily by a GitHub Action · tip #9 of 20</sub>
 <!-- TIP:END -->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
