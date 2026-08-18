@@ -87,9 +87,9 @@ Madhu Balakrishnan Bashyam ~ Cybersecurity Professional / SOC Analyst
 ## 💡 `security_tip_of_the_day`
 
 <!-- TIP:START -->
-> 🔐 **Phishing is still the #1 entry point — verify unusual requests out-of-band.**
+> 🔐 **Use unique passwords per site and let a password manager remember them.**
 >
-> <sub>Auto-rotated daily by a GitHub Action · tip #10 of 20</sub>
+> <sub>Auto-rotated daily by a GitHub Action · tip #11 of 20</sub>
 <!-- TIP:END -->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
