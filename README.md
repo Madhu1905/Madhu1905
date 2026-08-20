@@ -87,9 +87,9 @@ Madhu Balakrishnan Bashyam ~ Cybersecurity Professional / SOC Analyst
 ## 💡 `security_tip_of_the_day`
 
 <!-- TIP:START -->
-> 🔐 **Prefer allow-lists over deny-lists: enumerate the good, block the rest.**
+> 🔐 **Shrink the attack surface — disable unused ports, services, and accounts.**
 >
-> <sub>Auto-rotated daily by a GitHub Action · tip #12 of 20</sub>
+> <sub>Auto-rotated daily by a GitHub Action · tip #13 of 20</sub>
 <!-- TIP:END -->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
