@@ -87,9 +87,9 @@ Madhu Balakrishnan Bashyam ~ Cybersecurity Professional / SOC Analyst
 ## 💡 `security_tip_of_the_day`
 
 <!-- TIP:START -->
-> 🔐 **Store passwords with a slow salted KDF (argon2/bcrypt), never plain text or MD5.**
+> 🔐 **Hunt for impossible-travel and off-hours logins to catch account takeover early.**
 >
-> <sub>Auto-rotated daily by a GitHub Action · tip #14 of 20</sub>
+> <sub>Auto-rotated daily by a GitHub Action · tip #15 of 20</sub>
 <!-- TIP:END -->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
