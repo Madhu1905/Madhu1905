@@ -87,9 +87,9 @@ Madhu Balakrishnan Bashyam ~ Cybersecurity Professional / SOC Analyst
 ## 💡 `security_tip_of_the_day`
 
 <!-- TIP:START -->
-> 🔐 **Write the incident-response runbook before you need it, not during the incident.**
+> 🔐 **Encrypt data in transit (TLS) and at rest by default, not as an afterthought.**
 >
-> <sub>Auto-rotated daily by a GitHub Action · tip #16 of 20</sub>
+> <sub>Auto-rotated daily by a GitHub Action · tip #17 of 20</sub>
 <!-- TIP:END -->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
