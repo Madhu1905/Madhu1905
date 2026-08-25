@@ -7,7 +7,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Madhu1905&color=00ff9c&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
 &nbsp;
-<img src="https://img.shields.io/badge/Open%20to-SOC%20Analyst%20roles-00ff9c?style=for-the-badge&labelColor=0d1117" alt="open to work" />
+<img src="https://img.shields.io/badge/currently-SOC%20Analyst%20%40%20Fenergo-00ff9c?style=for-the-badge&labelColor=0d1117" alt="current role" />
 &nbsp;
 <img src="https://img.shields.io/badge/📍-Dublin,%20Ireland-7b42bc?style=for-the-badge" alt="location" />
 
@@ -15,10 +15,11 @@
 <br/><br/>
 
 <a href="#whoami"><img src="https://img.shields.io/badge/whoami-00ff9c?style=for-the-badge&labelColor=0d1117" alt="whoami" /></a>
-<a href="#skills"><img src="https://img.shields.io/badge/skills-7b42bc?style=for-the-badge&labelColor=0d1117" alt="skills" /></a>
-<a href="#tip"><img src="https://img.shields.io/badge/daily_tip-00ff9c?style=for-the-badge&labelColor=0d1117" alt="daily tip" /></a>
-<a href="#projects"><img src="https://img.shields.io/badge/projects-7b42bc?style=for-the-badge&labelColor=0d1117" alt="projects" /></a>
-<a href="#connect"><img src="https://img.shields.io/badge/connect-00ff9c?style=for-the-badge&labelColor=0d1117" alt="connect" /></a>
+<a href="#experience"><img src="https://img.shields.io/badge/experience-7b42bc?style=for-the-badge&labelColor=0d1117" alt="experience" /></a>
+<a href="#skills"><img src="https://img.shields.io/badge/skills-00ff9c?style=for-the-badge&labelColor=0d1117" alt="skills" /></a>
+<a href="#tip"><img src="https://img.shields.io/badge/daily_tip-7b42bc?style=for-the-badge&labelColor=0d1117" alt="daily tip" /></a>
+<a href="#projects"><img src="https://img.shields.io/badge/projects-00ff9c?style=for-the-badge&labelColor=0d1117" alt="projects" /></a>
+<a href="#connect"><img src="https://img.shields.io/badge/connect-7b42bc?style=for-the-badge&labelColor=0d1117" alt="connect" /></a>
 
 </div>
 
@@ -29,14 +30,14 @@
 ## 🧬 `whoami`
 
 ```bash
-Madhu Balakrishnan Bashyam ~ Cybersecurity Professional / SOC Analyst
-> Experience: 2+ yrs — security monitoring · incident response · threat hunting
-> Analysis:   malware & phishing · vulnerability management · SIEM operations
-> Location:   Dublin, Ireland  ·  open to SOC Analyst roles
+Madhu Balakrishnan Bashyam ~ Cyber Security Analyst @ Fenergo
+> Since:  Nov 2025 · Dublin, Ireland
+> SOC:    Microsoft Sentinel (KQL) · CrowdStrike Falcon · Microsoft Defender
+> Also:   threat hunting · IOC analysis · Qualys VM · Python & PowerShell
 ```
 
-> 🛡️ &nbsp; I turn noisy alerts into **detections that catch real threats**
-> 🔬 &nbsp; Sharpening **detection engineering & security automation**
+> 🛡️ &nbsp; SOC monitoring, detection engineering & incident response
+> 🔬 &nbsp; Threat hunting, IOC analysis & vulnerability management
 > 🌐 &nbsp; Portfolio + write-ups → **[madhubashyam.net](https://madhubashyam.net)**
 
 <details>
@@ -44,17 +45,33 @@ Madhu Balakrishnan Bashyam ~ Cybersecurity Professional / SOC Analyst
 
 <br/>
 
-- 🔭 &nbsp; 2+ years across SOC operations — monitoring, detection & incident response
-- 🌱 &nbsp; Going deeper on **detection engineering**, **threat hunting** & **security automation**
-- 🎯 &nbsp; Open to **SOC Analyst / Security Analyst / Detection Engineering** roles
-- 📍 &nbsp; Based in **Dublin, Ireland**
-- 🧩 &nbsp; I treat every alert as a lead and every system as a puzzle — ethically
+- 🔭 &nbsp; **Cyber Security Analyst @ Fenergo** — Dublin, Ireland (Nov 2025 – present)
+- 🧪 &nbsp; Day-to-day: alert triage, threat hunting, KQL detections & threat-intel enrichment
+- 🛠️ &nbsp; Automating investigation workflows with **Python & PowerShell**
+- 📈 &nbsp; Focused on reducing false positives and improving detection coverage
+- 🎓 &nbsp; 2+ years in security operations
 
 </details>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-<!-- ===== ARSENAL ===== -->
+<!-- ===== EXPERIENCE ===== -->
+<a id="experience"></a>
+## 💼 `experience`
+
+### Cyber Security Analyst · Fenergo
+`Nov 2025 – Present` &nbsp;·&nbsp; Dublin, Ireland
+
+- Monitor and investigate security alerts across enterprise and cloud environments using **Microsoft Sentinel**, **KQL**, **CrowdStrike Falcon** and **Microsoft Defender** — enabling faster identification and response to potential threats.
+- Perform **incident triage, threat hunting and IOC analysis** across endpoint, network, phishing and malware incidents, supporting timely containment and remediation.
+- Develop and optimise **KQL detection queries, correlation logic and monitoring rules**, improving threat visibility and reducing false-positive alerts.
+- Enrich malicious IPs, domains, URLs and files using **threat-intelligence** sources for greater context and accuracy during investigations.
+- Assess and prioritise vulnerabilities using **Qualys**, support remediation activities and validate fixes to reduce exposure across enterprise environments.
+- Automate repetitive security tasks with **Python and PowerShell**, and collaborate with technical teams through **Jira and ServiceNow** to improve operational efficiency and incident tracking.
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<!-- ===== SKILLS ===== -->
 <a id="skills"></a>
 ## 🧠 `skills`
 
@@ -64,19 +81,28 @@ Madhu Balakrishnan Bashyam ~ Cybersecurity Professional / SOC Analyst
 
 <br/><br/>
 
-**Languages &amp; Tools**
+**Security Operations**
 
-<img src="https://skillicons.dev/icons?i=python,bash,typescript,react,nextjs,tailwind,docker,git,linux&theme=dark" alt="tech icons" />
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge)
+![KQL](https://img.shields.io/badge/KQL-004B87?style=for-the-badge)
+![CrowdStrike Falcon](https://img.shields.io/badge/CrowdStrike_Falcon-E01A22?style=for-the-badge)
+![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-3B78FF?style=for-the-badge)
+![Qualys](https://img.shields.io/badge/Qualys-C8102E?style=for-the-badge&logo=qualys&logoColor=white)
 
-<br/><br/>
+<br/>
 
-**Security &amp; SOC**
+**Automation &amp; Workflow**
 
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge)
+
+<br/>
+
+**Also work with**
+
+<img src="https://skillicons.dev/icons?i=azure,linux,bash,git,docker,typescript,nextjs&theme=dark" alt="tech icons" />
 
 </div>
 

@@ -45,7 +45,7 @@
 
   <text class="l" style="animation-delay:2s" x="34" y="245" font-size="15" fill="#7d8590">status:</text>
   <circle class="dot" cx="112" cy="240" r="5" fill="#00ff9c" filter="url(#glow)"/>
-  <text class="l" style="animation-delay:2s" x="126" y="245" font-size="15" fill="#00ff9c">OPEN</text>
-  <text class="l" style="animation-delay:2.2s" x="176" y="245" font-size="15" fill="#7d8590">· seeking SOC Analyst roles · Dublin, IE</text>
-  <rect class="cur" x="545" y="233" width="10" height="15" fill="#00ff9c"/>
+  <text class="l" style="animation-delay:2s" x="126" y="245" font-size="15" fill="#00ff9c">SOC Analyst @ Fenergo</text>
+  <text class="l" style="animation-delay:2.2s" x="326" y="245" font-size="15" fill="#7d8590">·  Dublin, IE</text>
+  <rect class="cur" x="448" y="233" width="10" height="15" fill="#00ff9c"/>
 </svg>
