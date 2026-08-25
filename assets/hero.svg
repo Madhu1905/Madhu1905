@@ -40,12 +40,12 @@
 
   <text class="l" style="animation-delay:.15s" x="34" y="96" font-size="16"><tspan fill="#00ff9c">$</tspan><tspan fill="#7d8590"> whoami</tspan></text>
   <text class="l" style="animation-delay:.6s" x="34" y="141" font-size="38" font-weight="700" fill="#00ff9c" filter="url(#glow)">Madhu Bashyam</text>
-  <text class="l" style="animation-delay:1s" x="36" y="171" font-size="15" fill="#c9d1d9">SOC Analyst · Threat Hunting · Incident Response · SIEM</text>
+  <text class="l" style="animation-delay:1s" x="36" y="171" font-size="15" fill="#c9d1d9">Cyber Security Analyst · Threat Hunting · Incident Response</text>
   <text class="l" style="animation-delay:1.5s" x="34" y="211" font-size="16"><tspan fill="#00ff9c">$</tspan><tspan fill="#7d8590"> ./monitor --live </tspan><tspan fill="#7b42bc">[OK]</tspan></text>
 
   <text class="l" style="animation-delay:2s" x="34" y="245" font-size="15" fill="#7d8590">status:</text>
   <circle class="dot" cx="112" cy="240" r="5" fill="#00ff9c" filter="url(#glow)"/>
-  <text class="l" style="animation-delay:2s" x="126" y="245" font-size="15" fill="#00ff9c">SOC Analyst @ Fenergo</text>
-  <text class="l" style="animation-delay:2.2s" x="326" y="245" font-size="15" fill="#7d8590">·  Dublin, IE</text>
-  <rect class="cur" x="448" y="233" width="10" height="15" fill="#00ff9c"/>
+  <text class="l" style="animation-delay:2s" x="126" y="245" font-size="15" fill="#00ff9c">Cyber Security Analyst @ Fenergo</text>
+  <text class="l" style="animation-delay:2.2s" x="428" y="245" font-size="15" fill="#7d8590">· Dublin, IE</text>
+  <rect class="cur" x="540" y="233" width="10" height="15" fill="#00ff9c"/>
 </svg>

@@ -1,13 +1,13 @@
 <!-- ===== CUSTOM ANIMATED HERO ===== -->
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Madhu Bashyam — SOC Analyst" />
+<img src="./assets/hero.svg" width="100%" alt="Madhu Bashyam — Cyber Security Analyst" />
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Madhu1905&color=00ff9c&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
 &nbsp;
-<img src="https://img.shields.io/badge/currently-SOC%20Analyst%20%40%20Fenergo-00ff9c?style=for-the-badge&labelColor=0d1117" alt="current role" />
+<img src="https://img.shields.io/badge/currently-Cyber%20Security%20Analyst%20%40%20Fenergo-00ff9c?style=for-the-badge&labelColor=0d1117" alt="current role" />
 &nbsp;
 <img src="https://img.shields.io/badge/📍-Dublin,%20Ireland-7b42bc?style=for-the-badge" alt="location" />
 
