@@ -113,9 +113,9 @@ Madhu Balakrishnan Bashyam ~ Cyber Security Analyst @ Fenergo
 ## 💡 `security_tip_of_the_day`
 
 <!-- TIP:START -->
-> 🔐 **Back up offline — ransomware can't encrypt what it can't reach.**
+> 🔐 **Phishing is still the #1 entry point — verify unusual requests out-of-band.**
 >
-> <sub>Auto-rotated daily by a GitHub Action · tip #9 of 20</sub>
+> <sub>Auto-rotated daily by a GitHub Action · tip #10 of 20</sub>
 <!-- TIP:END -->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
