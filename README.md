@@ -113,9 +113,9 @@ Madhu Balakrishnan Bashyam ~ Cyber Security Analyst @ Fenergo
 ## 💡 `security_tip_of_the_day`
 
 <!-- TIP:START -->
-> 🔐 **Keep secrets out of source code; rotate them and use a real secrets manager.**
+> 🔐 **Segment the network so one compromised host can't reach everything else.**
 >
-> <sub>Auto-rotated daily by a GitHub Action · tip #7 of 20</sub>
+> <sub>Auto-rotated daily by a GitHub Action · tip #8 of 20</sub>
 <!-- TIP:END -->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
