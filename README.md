@@ -113,9 +113,9 @@ Madhu Balakrishnan Bashyam ~ Cyber Security Analyst @ Fenergo
 ## 💡 `security_tip_of_the_day`
 
 <!-- TIP:START -->
-> 🔐 **Patch fast — most breaches exploit vulnerabilities that already had a fix available.**
+> 🔐 **You can't detect what you don't collect: log first, then build alerts on top.**
 >
-> <sub>Auto-rotated daily by a GitHub Action · tip #3 of 20</sub>
+> <sub>Auto-rotated daily by a GitHub Action · tip #4 of 20</sub>
 <!-- TIP:END -->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
