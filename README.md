@@ -113,9 +113,9 @@ Madhu Balakrishnan Bashyam ~ Cyber Security Analyst @ Fenergo
 ## 💡 `security_tip_of_the_day`
 
 <!-- TIP:START -->
-> 🔐 **Least privilege first: every account and service should have only the access it actually needs.**
+> 🔐 **Patch fast — most breaches exploit vulnerabilities that already had a fix available.**
 >
-> <sub>Auto-rotated daily by a GitHub Action · tip #2 of 20</sub>
+> <sub>Auto-rotated daily by a GitHub Action · tip #3 of 20</sub>
 <!-- TIP:END -->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
