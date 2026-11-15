@@ -113,9 +113,9 @@ Madhu Balakrishnan Bashyam ~ Cyber Security Analyst @ Fenergo
 ## 💡 `security_tip_of_the_day`
 
 <!-- TIP:START -->
-> 🔐 **Complete mediation: check authorization on every request, every time.**
+> 🔐 **Threat-model early — ask 'what can go wrong?' before writing the code.**
 >
-> <sub>Auto-rotated daily by a GitHub Action · tip #19 of 20</sub>
+> <sub>Auto-rotated daily by a GitHub Action · tip #20 of 20</sub>
 <!-- TIP:END -->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
