@@ -113,9 +113,9 @@ Madhu Balakrishnan Bashyam ~ Cyber Security Analyst @ Fenergo
 ## 💡 `security_tip_of_the_day`
 
 <!-- TIP:START -->
-> 🔐 **Assume breach. Design detection and response as if prevention already failed.**
+> 🔐 **Never trust user input — validate on the way in, encode on the way out.**
 >
-> <sub>Auto-rotated daily by a GitHub Action · tip #5 of 20</sub>
+> <sub>Auto-rotated daily by a GitHub Action · tip #6 of 20</sub>
 <!-- TIP:END -->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
